@@ -5,6 +5,6 @@ from basic to advanced. It also contains the data sets that have been
 used to implement the algorithms. The list of algorithms covered :
 
 * Regression
-  *Simple Linear Regression (Linear Regression)
-  *Multivariate Linear Regression (Linear Regression)
-  *Logistic Regression
+  * Simple Linear Regression (Linear Regression)
+  * Multivariate Linear Regression (Linear Regression)
+  * Logistic Regression
